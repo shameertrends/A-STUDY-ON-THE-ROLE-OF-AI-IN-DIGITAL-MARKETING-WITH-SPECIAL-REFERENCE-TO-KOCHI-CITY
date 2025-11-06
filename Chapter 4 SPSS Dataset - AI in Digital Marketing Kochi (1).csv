@@ -1,0 +1,201 @@
+Respondent_ID,Respondent_Type,Business_Size,AI_Adoption,Chatbots_Used,Predictive_Analytics_Used,Content_Creation_Used,SEO_Tools_Used,Email_Marketing_Used,PPC_Ads_Used,Benefit_ROI,Benefit_Personalization,Benefit_Time_Savings,Benefit_Engagement,Benefit_Targeting,Challenge_Costs,Challenge_Expertise,Challenge_Security,Challenge_Skills,Satisfaction_Level,Exposure_Personalized_Ads,Exposure_Chatbots,Trust_AI_Campaigns,Purchase_Intent,Perception_Personalization,Qualitative_Themes
+1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,0,0,4,0,0,,,1,Lack of technical skills hinders AI utilization
+2,1,2,1,0,0,1,0,1,0,1,0,1,0,1,0,0,1,0,5,0,0,,,1,AI streamlines campaign management
+3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,2,Uncertain about AI benefits due to costs
+4,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,3,0,0,,,2,Need training to maximize AI benefits
+5,1,2,1,0,1,0,0,0,1,1,0,1,0,1,1,0,1,0,4,0,0,,,1,AI enhances ad targeting precision
+6,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,3,0,0,,,2,AI tools require skilled staff
+7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,Limited awareness of AI applications
+8,1,2,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,5,0,0,,,1,AI improves customer interaction
+9,1,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,4,0,0,,,1,AI reduces manual effort
+10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,2,Interested in AI but lacks resources
+11,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,4,1,Personalized ads feel engaging
+12,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are helpful but impersonal
+13,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads feel intrusive
+14,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,5,1,AI makes shopping convenient
+15,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,3,2,Mixed feelings about ad personalization
+16,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,3,0,0,,,2,AI is promising but needs training
+17,1,2,1,0,0,1,0,0,1,0,0,1,0,1,0,0,1,0,5,0,0,,,1,AI optimizes ad spend
+18,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,AI seems too complex
+19,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,4,0,0,,,1,Chatbots improve response time
+20,1,2,1,0,0,0,1,1,0,1,0,1,0,0,0,0,1,0,4,0,0,,,1,AI enhances campaign scalability
+21,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,4,1,Ads align with my interests
+22,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots lack human touch
+23,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,4,1,AI makes interactions seamless
+24,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,3,2,Ads are sometimes repetitive
+25,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,5,1,Chatbots provide quick support
+26,1,1,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,0,3,0,0,,,2,AI tools have a learning curve
+27,1,2,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,5,0,0,,,1,AI drives campaign success
+28,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,Lack of funds limits AI adoption
+29,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,3,0,0,,,2,AI tools are underutilized
+30,1,2,1,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,4,0,0,,,1,AI enhances customer retention
+31,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads feel tailored
+32,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are convenient but limited
+33,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,2,2,3,AI feels too automated
+34,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads improve shopping experience
+35,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,4,2,Chatbots are fast but not always accurate
+36,1,1,1,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,4,0,0,,,1,AI boosts campaign effectiveness
+37,1,2,1,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,5,0,0,,,1,AI optimizes workflows
+38,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,AI is not practical for us
+39,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,3,0,0,,,2,Skill gaps slow AI adoption
+40,1,2,1,0,1,1,0,0,0,1,0,0,1,0,0,0,1,0,5,0,0,,,1,AI transforms marketing strategy
+41,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,3,2,Ads are sometimes overwhelming
+42,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots save time
+43,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,2,3,3,Privacy concerns with AI ads
+44,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads match my preferences
+45,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are useful but not perfect
+46,1,1,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,4,0,0,,,1,AI improves content efficiency
+47,1,2,1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,5,0,0,,,1,AI enhances customer interaction
+48,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,Lack of expertise limits AI use
+49,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,3,0,0,,,2,AI tools need better support
+50,1,2,1,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,4,0,0,,,1,AI drives competitive advantage
+51,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads enhance online experience
+52,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots need improvement
+53,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,4,1,AI makes shopping easier
+54,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads feel too invasive
+55,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are very responsive
+56,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,0,0,4,0,0,,,1,AI improves customer service
+57,1,2,1,0,0,1,0,1,0,1,0,1,0,0,0,0,1,0,5,0,0,,,1,AI streamlines operations
+58,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,AI is too expensive
+59,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,3,0,0,,,2,Training needed for AI tools
+60,1,2,1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,4,0,0,,,1,AI enhances ad performance
+61,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,4,2,Ads are relevant but repetitive
+62,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are quick and helpful
+63,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,3,3,2,AI is convenient but not personal
+64,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads align with interests
+65,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots feel robotic
+66,1,1,1,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,4,0,0,,,1,AI boosts campaign ROI
+67,1,2,1,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,5,0,0,,,1,AI optimizes marketing efforts
+68,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,Lack of resources for AI
+69,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3,0,0,,,2,AI tools are challenging
+70,1,2,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,5,0,0,,,1,AI drives marketing success
+71,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads feel personalized
+72,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are useful but limited
+73,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,5,1,AI enhances experience
+74,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads raise privacy concerns
+75,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are efficient
+76,1,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,4,0,0,,,1,AI reduces campaign workload
+77,1,2,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,5,0,0,,,1,AI improves retention
+78,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,AI seems inaccessible
+79,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,3,0,0,,,2,AI needs training support
+80,1,2,1,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,4,0,0,,,1,AI enhances campaign efficiency
+81,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,3,2,Ads are not always relevant
+82,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,5,1,Chatbots are very helpful
+83,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,3,3,2,AI feels automated
+84,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads match preferences
+85,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots lack interaction
+86,1,1,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,0,4,0,0,,,1,AI improves content strategy
+87,1,2,1,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,5,0,0,,,1,AI drives measurable results
+88,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,AI is too costly
+89,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,3,0,0,,,2,AI tools require training
+90,1,2,1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,5,0,0,,,1,AI enhances customer service
+91,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads are highly relevant
+92,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are convenient
+93,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,4,1,AI makes shopping easier
+94,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads feel intrusive
+95,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are quick
+96,1,1,1,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,4,0,0,,,1,AI improves targeting
+97,1,2,1,0,0,1,1,0,0,0,0,1,0,1,0,0,1,0,5,0,0,,,1,AI streamlines content creation
+98,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,AI is not feasible
+99,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3,0,0,,,2,Skill gaps slow AI adoption
+100,1,2,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,4,0,0,,,1,AI optimizes ad performance
+101,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,4,2,Ads are repetitive
+102,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are efficient
+103,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,3,3,2,AI is impersonal
+104,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads enhance experience
+105,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots feel automated
+106,1,1,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,4,0,0,,,1,AI improves content efficiency
+107,1,2,1,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,5,0,0,,,1,AI enhances interaction
+108,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,Lack of expertise limits AI
+109,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,3,0,0,,,2,AI needs training support
+110,1,2,1,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,4,0,0,,,1,AI drives advantage
+111,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads feel personalized
+112,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are limited
+113,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,5,1,AI enhances experience
+114,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads raise concerns
+115,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are efficient
+116,1,1,1,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,4,0,0,,,1,AI improves targeting
+117,1,2,1,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,5,0,0,,,1,AI optimizes efforts
+118,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,Lack of resources
+119,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3,0,0,,,2,AI tools are challenging
+120,1,2,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,5,0,0,,,1,AI drives success
+121,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,3,2,Ads are not relevant
+122,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,5,1,Chatbots are helpful
+123,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,3,3,2,AI feels automated
+124,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads match preferences
+125,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots lack interaction
+126,1,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,4,0,0,,,1,AI reduces workload
+127,1,2,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,5,0,0,,,1,AI improves retention
+128,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,AI seems inaccessible
+129,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,3,0,0,,,2,AI needs training
+130,1,2,1,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,4,0,0,,,1,AI enhances efficiency
+131,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads are relevant
+132,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are limited
+133,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,4,1,AI makes shopping easier
+134,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads feel intrusive
+135,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are quick
+136,1,1,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,0,4,0,0,,,1,AI improves content strategy
+137,1,2,1,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,5,0,0,,,1,AI drives results
+138,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,AI is too costly
+139,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,3,0,0,,,2,AI requires training
+140,1,2,1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,5,0,0,,,1,AI enhances service
+141,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,4,2,Ads are repetitive
+142,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are efficient
+143,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,3,3,2,AI is impersonal
+144,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads enhance experience
+145,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots feel automated
+146,1,1,1,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,4,0,0,,,1,AI improves targeting
+147,1,2,1,0,0,1,1,0,0,0,0,1,0,1,0,0,1,0,5,0,0,,,1,AI streamlines creation
+148,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0,,,3,AI is not feasible
+149,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3,0,0,,,2,Skill gaps slow AI adoption
+150,1,2,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,4,0,0,,,1,AI optimizes performance
+151,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads feel personalized
+152,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are limited
+153,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,5,1,AI enhances experience
+154,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads raise concerns
+155,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are efficient
+156,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,3,2,Ads are not relevant
+157,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,5,1,Chatbots are helpful
+158,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,3,3,2,AI feels automated
+159,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads match preferences
+160,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots lack interaction
+161,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads are relevant
+162,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are limited
+163,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,4,1,AI makes shopping easier
+164,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads feel intrusive
+165,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are quick
+166,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,4,2,Ads are repetitive
+167,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are efficient
+168,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,3,3,2,AI is impersonal
+169,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads enhance experience
+170,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots feel automated
+171,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads feel personalized
+172,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are limited
+173,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,5,1,AI enhances experience
+174,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads raise concerns
+175,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are efficient
+176,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,3,2,Ads are not relevant
+177,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,5,1,Chatbots are helpful
+178,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,3,3,2,AI feels automated
+179,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads match preferences
+180,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots lack interaction
+181,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads are relevant
+182,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are limited
+183,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,4,1,AI makes shopping easier
+184,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads feel intrusive
+185,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are quick
+186,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,4,2,Ads are repetitive
+187,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are efficient
+188,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,3,3,2,AI is impersonal
+189,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,5,1,Ads enhance experience
+190,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots feel automated
+191,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads feel personalized
+192,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,3,3,2,Chatbots are limited
+193,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,4,5,1,AI enhances experience
+194,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,2,2,3,Ads raise concerns
+195,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,4,1,Chatbots are efficient
+196,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,3,3,2,Ads are not relevant
+197,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,4,5,1,Chatbots are helpful
+198,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,1,3,3,2,AI feels automated
+199,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,4,4,1,Ads match preferences
+200,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,2,2,3,Chatbots lack interaction
